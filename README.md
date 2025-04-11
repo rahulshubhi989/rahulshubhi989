@@ -18,4 +18,4 @@ TABLE OF CONTENTS:
 - [transform data] #transforming the data
 
 SET UP:
-follow the code and set up for the project
+follow the code instructions and set up for the project
